@@ -2,8 +2,6 @@
 
 Projet réalisé dans le cadre d’un module Laravel.
 
-Réalisé par : **Othmane Edakiri**
-
 ---
 
 ## 📌 Description
